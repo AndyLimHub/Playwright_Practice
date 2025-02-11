@@ -1,0 +1,22 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Playwright
+playwright-report/
+playwright/.cache/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# General
+*.log
+*.tmp
+*.swp
+*.bak
+*.orig
+.DS_Store
+Thumbs.dbplaywright_env/
